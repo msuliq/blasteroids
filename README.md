@@ -1,5 +1,7 @@
 # Blasteroids
 
+![Blasteroids Screenshot](screenshot/blasteroids.png)
+
 Blasteroids is a classic arcade game taking its root from the famous [Asteroid](http://www.classicgaming.cc/classics/asteroids/).
 The game is implemented in C using [Allegro 5.0](http://alleg.sourceforge.net/) library.
 
